@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "577abfb3-2a05-4ce4-8d8c-e0b1831c7c59",
+            "Value": {
+                "id": "e98b5129-83d4-4f55-a10e-1cd518d07a03",
+                "resourcePath": "tilesets\\tileset_base\\tileset_base.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "57d5f9f3-a18c-4d33-b777-395a1893ed43",
             "Value": {
                 "id": "f6a21295-b086-4c4c-adfd-c6b2a9ec37ef",
@@ -188,6 +196,14 @@
                 "id": "64c63526-8b28-4aae-922c-6fc81feb2bb3",
                 "resourcePath": "views\\6a94bb5f-4c0a-4550-a5ff-28d11396f494.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d1a062b-e9a2-44a7-ad02-c45244968569",
+            "Value": {
+                "id": "42b690ab-0a38-43c1-98b5-39adcb518a32",
+                "resourcePath": "sprites\\spr_sword\\spr_sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -287,6 +303,14 @@
             }
         },
         {
+            "Key": "919d307d-d3b1-4d8e-b837-ff4030037762",
+            "Value": {
+                "id": "f2540f82-6d35-4cc8-b254-045fe991b53b",
+                "resourcePath": "sprites\\spr_collision\\spr_collision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94dba3ce-0cd6-4e99-bcb5-8a5daec21efa",
             "Value": {
                 "id": "2172c5d5-bf33-4b70-8b0f-fdba36a1628d",
@@ -303,11 +327,27 @@
             }
         },
         {
+            "Key": "9c55a57a-be78-4608-bdc7-3c98b5b5879e",
+            "Value": {
+                "id": "1657625b-8492-499c-9a4d-fa61391d93c8",
+                "resourcePath": "objects\\object_colision\\object_colision.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9e4d8b56-737c-43a7-9f10-73b7a0a75270",
             "Value": {
                 "id": "cdff12e4-9a74-4042-bea2-d67c0f9ce491",
                 "resourcePath": "views\\9e4d8b56-737c-43a7-9f10-73b7a0a75270.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a49a76b9-706f-4082-8f94-46b9c5cc3ab5",
+            "Value": {
+                "id": "6f1abd7f-b979-42ce-a684-f01d79fb5fd2",
+                "resourcePath": "sprites\\spr_tileset\\spr_tileset.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
